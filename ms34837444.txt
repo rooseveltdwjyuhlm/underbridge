@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "plain-mode-8860.on.fleek.co",
+  "Id": "f0ce899e-f35a-47fb-b085-5ae7241eefdd"
+}
